@@ -15,6 +15,7 @@ def main():
     excel_data_df = pandas.read_excel('teste.xlsx')
     json_str = excel_data_df.to_json()
 
+    print(excel_data_df)
     print(dict)
     print(json_str)
     # if json_str != "None":
