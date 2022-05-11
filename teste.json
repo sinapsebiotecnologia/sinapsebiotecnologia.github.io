@@ -1,1 +1,14 @@
-{"Sinapse":{"0":"S0AB","1":"S0CD","2":"S0FG"},"Concorrente":{"0":"Z0AB","1":"Z0CD","2":"Z0FG"}}
+[
+ {
+  "Sinapse": "S0AB",
+  "Concorrente": "Z0AB"
+ },
+ {
+  "Sinapse": "S0CD",
+  "Concorrente": "Z0CD"
+ },
+ {
+  "Sinapse": "S0FG",
+  "Concorrente": "Z0FG"
+ }
+]
