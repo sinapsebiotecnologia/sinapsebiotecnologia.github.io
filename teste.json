@@ -1,14 +1,20 @@
 [
  {
   "Sinapse": "S0AB",
-  "Concorrente": "Z0AB"
+  "Descricao": "Sinapse antigenoma biodegradavel",
+  "Concorrente": "Z0AB",
+  "Descricao": "zymo anti-bio"
  },
  {
   "Sinapse": "S0CD",
-  "Concorrente": "Z0CD"
+  "Descricao": "sinape calcio desafiador",
+  "Concorrente": "Z0CD",
+  "Descricao": "zymo calcium chaleng"
  },
  {
   "Sinapse": "S0FG",
-  "Concorrente": "Z0FG"
+  "Descricao": "sinapse forro gordo",
+  "Concorrente": "Z0FG",
+  "Descricao": "zymo gordo forro"
  }
 ]
