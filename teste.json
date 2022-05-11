@@ -1,14 +1,1 @@
-[
- {
-  "ORIGINAL": "S0AB",
-  "SIMILAR": "Z0AB"
- },
- {
-  "ORIGINAL": "S0CD",
-  "SIMILAR": "Z0CD"
- },
- {
-  "ORIGINAL": "S0FG",
-  "SIMILAR": "Z0FG"
- }
-]
+{"Sinapse":{"0":"S0AB","1":"S0CD","2":"S0FG"},"Concorrente":{"0":"Z0AB","1":"Z0CD","2":"Z0FG"}}
